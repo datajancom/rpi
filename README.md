@@ -1,9 +1,10 @@
 # rpi
 Raspberry Pi
 
-#Node-RED
+# Node-RED
 
 https://nodered.org/docs/hardware/raspberrypi
 
-Install:
+Install
+
 bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)
